@@ -50,13 +50,13 @@ Administra el acceso cuando varios usuarios trabajan al mismo tiempo.
 Ejecuta las consultas hechas con SQL.
 Sin el motor, la base de datos no podría funcionar.
 
-# 7 ¿Qué es un motor de base de datos relacional?
+# 7 ¿Cuáles son los motores de bases de datos relacionales más populares?
 MySQL es muy usado en aplicaciones web y proyectos pequeños.
 PostgreSQL es conocido por ser muy completo y confiable.
 Oracle Database se usa mucho en grandes empresas.
 SQL Server es popular en entornos de Microsoft.
 MariaDB es una alternativa moderna y de código abierto.
-Todos ellos permiten trabajar con bases de datos relacionales.
+Todos ellos permiten trabajar con bases de datos relacionales
 
 # 8 ¿Cuál es el motor de base de datos ligero que no necesita un servidor?
 SQLite es un motor de base de datos muy liviano.
