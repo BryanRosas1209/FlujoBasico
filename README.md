@@ -66,7 +66,7 @@ Es fácil de usar y configurar.
 Se utiliza mucho en aplicaciones móviles y de escritorio.
 Es ideal para proyectos pequeños o de prueba.
 
-# 9 Qué significa SQL en las bases de datos relacionales?
+# 9 ¿Qué significa SQL en las bases de datos relacionales?
 SQL significa Lenguaje de Consulta Estructurado.
 Es el lenguaje que se usa para comunicarse con la base de datos.
 Permite crear y modificar tablas.
