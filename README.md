@@ -1,8 +1,6 @@
 # FlujoBasico
 
-# Practica1 - Flujo Básico de git y github
-Primera Practica en un repositorio nuevo
-
+# Práctica 2 - Conceptos Báscos de Base De Datos
 
 # 1 ¿Qué es una Base de Datos Relacional?
 Es una forma de almacenar información de manera ordenada y estructurada.
